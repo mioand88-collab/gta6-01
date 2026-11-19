@@ -1,5 +1,1 @@
-[
-  { "name": "1-start.jpg", "query": "?shot=start&seed=1" },
-  { "name": "2-play.jpg", "query": "?shot=play&seed=1" },
-  { "name": "3-end.jpg", "query": "?shot=end&seed=1" }
-]
+[{"caption":"Dusk getaway down the main avenue: Jax in a stolen sports car at 112 km/h, three police cars in pursuit, wanted level 3, mission 'The Getaway' in progress.","name":"1-cover.jpg","query":"?shot=cover&seed=7"},{"caption":"Midday on foot in Downtown Solmara: Jax on the street with traffic, pedestrians, parks and shops around, mission marker 1200m away, HUD with minimap.","name":"2-street.jpg","query":"?shot=street&seed=7"},{"caption":"Dockside shootout at dusk: Jax with a pistol holding the docks against four Harbor Boys, wanted level 2, mission 'Dockside Deal' in progress.","name":"3-mission.jpg","query":"?shot=mission&seed=7"},{"caption":"Night drive along the Marina Bay road: street lamps and headlights, the sea to the east, one police car on the tail, wanted level 1.","name":"4-night.jpg","query":"?shot=night&seed=7"}]
